@@ -3,8 +3,8 @@ TherapySort is a desktop application for searching and filtering therapist profi
 
 ## Screenshots
 ### Main interface
-![TherapySort main interface](docs\therapySort_main.PNG)
-![TherapySort filtering functionality](docs\therapySort_filters.PNG)
+![TherapySort main interface](docs/therapySort_main.PNG)
+![TherapySort filtering functionality](docs/therapySort_filters.PNG)
 
 ## Features
 - Filter therapist profiles by multiple criteria simultaneously
