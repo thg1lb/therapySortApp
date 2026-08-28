@@ -38,7 +38,6 @@ TherapySort/
 │           └── TherapistFilter.cs
 ├── .gitignore
 ├── requirements.txt
-├── LICENSE
 └── README.md
 ```
 
